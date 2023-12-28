@@ -35,6 +35,11 @@ attendance_system.py: The main Python script for the facial recognition attendan
 images/: Directory containing images of known students.
 requirements.txt: List of required Python libraries.
 <current_date>.csv: CSV file storing attendance records for the current date.
+
+
+OUTPUT:
+![image](https://github.com/SAMARTH627/Facial-attendance-system/assets/111736287/6261177b-8108-41ff-a025-65b94b595165)
+
 Dependencies
 face_recognition: Face recognition library.
 OpenCV: Computer vision library for image and video processing.
