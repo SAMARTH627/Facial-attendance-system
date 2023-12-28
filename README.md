@@ -14,10 +14,12 @@ Dynamic Student List: The list of students expected to attend the session is ini
 
 User Interface: The system provides a simple user interface using OpenCV to display the live video feed with rectangles around recognized faces and attendance status.
 
-Usage
-Install Dependencies:
+*Usage*
 
-Install the required Python libraries using pip install -r requirements.txt.
+Install Dependencies:
+Install the required Python libraries
+
+using pip install -r requirements.txt.
 Prepare Student Images:
 
 Add images of students to the "images" directory, naming them appropriately.
@@ -27,8 +29,8 @@ Execute the script (attendance_system.py) to start the facial recognition attend
 Terminate the Program:
 
 Press 'q' to terminate the program and close the video feed window.
-View Attendance Records:
 
+View Attendance Records:
 Attendance records are stored in a CSV file named with the current date (e.g., "2023-01-01.csv").
 File Structure
 attendance_system.py: The main Python script for the facial recognition attendance system.
